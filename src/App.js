@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {TodoList} from './TodoList'
+import {TodoApp} from './TodoApp'
 
 function App() {
   const todos = [{text:"Learn React", priority:5, dueDate: new Date() },
@@ -13,9 +14,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
             <h1>TODO React App</h1>
-            <TodoList todoList={todos} />
         </p>
-
+        <TodoApp/>
+        <br></br>
         <a
           className="App-link"
           href="https://reactjs.org"
