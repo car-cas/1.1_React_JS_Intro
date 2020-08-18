@@ -1,5 +1,13 @@
 Realizado por **Carlos Andrés Castañeda Lozano**.
 
 # 1.1 React JS Intro
+
+## Running instructions
+  ```
+  Install npm 
+  ```
+  ```
+  npm start
+  ```
 ## License
-This project is licensed under the GNU General Public License - see [LICENSE](LICENSE.txt) for more details.
+This project is licensed under the GNU General Public License - see [LICENSE](LICENSE.md) for more details.
