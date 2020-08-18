@@ -10,4 +10,4 @@ Realizado por **Carlos Andrés Castañeda Lozano**.
   npm start
   ```
 ## License
-This project is licensed under the GNU General Public License - see [LICENSE](LICENSE.md) for more details.
+This project is licensed under the GNU General Public License - see [LICENSE](LICENSE) for more details.
