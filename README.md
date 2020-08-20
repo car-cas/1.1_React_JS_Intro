@@ -8,7 +8,7 @@ Realizado por **Carlos Andrés Castañeda Lozano**.
 
 ## Running instructions
   ```
-  Install npm 
+  npm i
   ```
   ```
   npm start
